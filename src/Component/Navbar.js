@@ -10,9 +10,7 @@ export default function Navbar() {
       
    <ul class="nav justify-content-center">   
      
-  <li class="nav-item me-5">
-    <Link class="brand active" aria-current="page" to="/"><img src="./images/logofinal.png
-    "/></Link>
+  <li class="nav-item me-5"><Link class="brand active" aria-current="page" to="/"><img src="./images/logofinal.png"></img></Link>
   </li>
   <li class="nav-items">
     <Link class="nav-link text-secondary" to="/">Home</Link>

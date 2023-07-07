@@ -34,7 +34,7 @@ export default function Home() {
 	</div>
 </section>       
               </div>
-              <img src="..\images\yoga-header.png" class="d-block w-100" alt="..." />
+              <img src="yoga-header.png" class="d-block w-100"  />
               <div class="carousel-caption d-none d-md-block">
                 <h5>First slide label</h5>
 
@@ -87,7 +87,7 @@ export default function Home() {
 ">
   <div className='imageshover'>
 
-   <img src="../images/OurClassesfirst.jpg" class="card-img-top" alt="..."/>
+   <img src="images\OurClassesfirst.jpg" class="card-img-top" alt=" i mhere"/>
    </div>
     
       <div class="card-body">
@@ -239,7 +239,7 @@ Sathi Bhuiyan
   </div>
   <div class="col">
     <div class="card h-100 OurClasses">
-      <img src="../images/OurGallerythird.jpg" class="card-img-top" alt="..."/>
+      <img src="../../images/OurGallerythird.jpg" class="card-img-top" alt="..."/>
       
     
     

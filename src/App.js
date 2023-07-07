@@ -17,11 +17,11 @@ import Footer from './Component/Footer';
 function App() {
   return (
     <div className="App">
-        <BrowserRouter basename='/Yoga'>
+        <BrowserRouter basename='/Yoga-heath'>
 <Navbar/>
 <Routes>
 
-  <Route path="/Yoga" exact element={<Home />} />
+  <Route path="/" exact element={<Home/>} />
 
   <Route path="/About" exact element={
     <About/>
