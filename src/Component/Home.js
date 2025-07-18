@@ -73,7 +73,7 @@ export default function Home() {
                <Link to="/About" style={{ color: "black" }}><button className='readmoreoption'>Read for more</button></Link>
            </div>
 
-          <div className='col-6 anoutimages'><img src='..\images\yoga-poses-to-relieve-stress.webp'></img></div>
+          <div className='col-6 anoutimages'><img src='images\yoga-poses-to-relieve-stress.webp'></img></div>
         </div>
       </div>
        <div className='container-fluid bg-body-secondary mt-5  p-3'>
@@ -121,7 +121,7 @@ export default function Home() {
   </div>
   <div class="col">
     <div class="card h-100 OurClasses">
-      <img src="../images/OurClassesthird.jpg" class="card-img-top" alt="..."/>
+      <img src="images/OurClassesthird.jpg" class="card-img-top" alt="..."/>
       <div class="card-body">
         <h5 class="card-title">seated forward Bend</h5>
        
@@ -206,7 +206,7 @@ Sathi Bhuiyan
   </div>
   <div class="col">
     <div class="card h-100 OurClasses">
-      <img src="../images/treainersecond.jpeg" class="card-img-top" alt="..."/>
+      <img src="images/treainersecond.jpeg" class="card-img-top" alt="..."/>
       
     
     
@@ -215,7 +215,7 @@ Sathi Bhuiyan
   </div>
   <div class="col">
     <div class="card h-100 OurClasses">
-      <img src="../images/treanerthir.jpeg" class="card-img-top" alt="..."/>
+      <img src="images/treanerthir.jpeg" class="card-img-top" alt="..."/>
       
     
     </div>
